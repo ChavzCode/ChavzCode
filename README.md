@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InnitAlejandro
+- 👋 Hi, I’m @Alejandro Chávez
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on Full Stack Projects
