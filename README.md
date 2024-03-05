@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Alejandro Chávez
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.JS
-- 💞️ I’m looking to collaborate on Full Stack Projects
-- 📫 How to reach me... alejose1710@gmail.com
+Hi👋, I’m @Alejandro Chávez. I'm a front-end developer currently working in Angular.
 
 <!---
 InnitAlejandro/InnitAlejandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
